@@ -17,5 +17,5 @@ use cases to run properly.
 [GitHub Repo for SE Project](https://github.com/mmhxv3/4320Group18)
 
 # Databases Final Project
-Unlike the other two projects, I am not able to link to a website, however the folder labeled Group30_Source holds
+Unlike the other two projects, I am not able to link to a website. However, the folder labeled Group30_Source holds
 examples of my work in SQL
