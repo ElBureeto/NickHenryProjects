@@ -6,7 +6,7 @@ This is a website that I made for my web development class, in order to login to
 to signin with username: test password: pass
 Note: This was made for fully windowed chrome users, and uses javascript, jquery, cookies, AJAX requests, GET and POST
 
-[WebDev Project Link](http://ec2-18-220-102-70.us-east-2.compute.amazonaws.com/)
+[WebDev Project Link](http://ec2-3-19-242-57.us-east-2.compute.amazonaws.com/)
 
 # Software Engineering Project -- Modification of Augur
 For our Software Engineering class we participated in 4 sprints in which was modified a GitHub project called Augur.
